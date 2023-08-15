@@ -1,4 +1,4 @@
-[//]: # (***You can delete or ignore strings starting with "[//]:" They will not be visible either way.)
+removed[//]: # (***You can delete or ignore strings starting with "[//]:" They will not be visible either way.)
 
 ***Description***:
 * **Current behaviour**: 
