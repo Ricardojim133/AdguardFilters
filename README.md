@@ -1,4 +1,4 @@
-&nbsp;
+<<<removed>>>&nbsp;
 
 <p align="center">
     <img width="275" alt="AdGuard Filters logo" src="https://cdn.adtidy.org/website/github.com/AdguardFilters/viking.svg" />
